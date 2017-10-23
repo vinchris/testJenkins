@@ -3,7 +3,7 @@
     <groupId>training.time-tracker</groupId>
     <artifactId>time-tracker-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.3.1-SNAPSHOT</version>
+    <version>0.3.1</version>
     <name>Time Tracker (Parent)</name>
     <description>
         This is a simple Maven / Java web project.
@@ -40,7 +40,8 @@
 	<scm>
 		<url>https://github.com/vinchris/time-tracker</url>
 		<connection>scm:git:https://github.com/vinchris/time-tracker.git</connection>
-		</scm>
+		  <tag>time-tracker-parent-0.3.1</tag>
+  </scm>
     <build>
         <pluginManagement>
             <plugins>
